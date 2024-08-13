@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // Configura il percorso di PHP e PHPUnit se non è nel PATH di sistema
-        PATH = "/usr/local/bin:$PATH"
+        PATH ="/c/php/8.3:/c/ProgramData/ComposerSetup/bin:/c/Users/Utente/AppData/Roaming/Composer/vendor/bin:$PATH"
     }
 
     stages {
