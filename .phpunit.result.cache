@@ -1,1 +1,1 @@
-{"version":1,"defects":{"SendEmailTest::testEmailSending":8},"times":{"SendEmailTest::testEmailSending":0.062}}
+{"version":1,"defects":{"SendEmailTest::testEmailSending":8},"times":{"SendEmailTest::testEmailSending":0.049}}
